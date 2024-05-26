@@ -1,6 +1,9 @@
 # Learn From Mistakes: Guidance on Zero-shot Conversational Text-to-SQL
+
 Here we will show the relevant prompts of our paper.
+
 ## Database Schema Prompt
+
 > ### Given the following database schema, your job is to write queries given a user’s request and with no explanation.  
 > # CREATE TABLE "continents" (
 > "ContId" INTEGER PRIMARY KEY,
