@@ -1,2 +1,2 @@
 # Text-to-SQL
-Text-to-SQL via LLM
+Here we will show the relevant code and prompts of our paper.
