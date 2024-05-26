@@ -4,13 +4,13 @@ Here we will show the relevant prompts of our paper.
 
 ## Database Schema Prompt
 
-> ### Given the following database schema, your job is to write queries given a user’s request and with no explanation.  
-> # CREATE TABLE "continents" (
-> "ContId" INTEGER PRIMARY KEY,
-> "Continent" TEXT);
-> # CREATE TABLE "countries" ( 
-> "CountryId" INTEGER PRIMARY KEY,
-> "CountryName" TEXT,
+> ### Given the following database schema, your job is to write queries given a user’s request and with no explanation. <br/>
+> # CREATE TABLE "continents" ( <br/>
+> "ContId" INTEGER PRIMARY KEY, <br/>
+> "Continent" TEXT); <br/>
+> # CREATE TABLE "countries" ( <br/> 
+> "CountryId" INTEGER PRIMARY KEY, <br/>
+> "CountryName" TEXT, <br/>
 > "Continent" INTEGER,
 > FOREIGN KEY (Continent) REFERENCES continents(ContId));
 > # CREATE TABLE "car\_makers" (
