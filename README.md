@@ -13,6 +13,7 @@ Our method derives general guidance through the analysis of error cases in the t
 <br>
 
 🤗Datasets Link: https://drive.google.com/uc?export=download&id=1Y3ydpFiQQ3FC0bzdfy3groV95O_f1nXF
+
 🏅Leaderboard Link: https://yale-lily.github.io/cosql
 
 ## 📖Prompts
