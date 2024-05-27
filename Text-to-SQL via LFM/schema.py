@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- encoding: utf-8 -*-
 '''
-@ file        : 0.py
-@ description : gets chema.txt
+@ file        : 
+@ description : 
 @ time        : 2024/03/08 16:54:03
-@ author      : Wenshuo Zhai
+@ author      : 
 @ version     : 1.0
 '''
 
