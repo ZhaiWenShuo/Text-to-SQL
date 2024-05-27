@@ -4,7 +4,7 @@
 @ file        : 5.py
 @ description : 
 @ time        : 2024/03/11 08:50:23
-@ author      : Wenshuo Zhai
+@ author      : 
 @ version     : 1.0
 '''
 
