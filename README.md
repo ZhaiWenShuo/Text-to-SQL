@@ -142,15 +142,7 @@ table as reference, as follows:
 ```
 
 ```
-##### Next, some guiding suggestions will be given.
-Your task is to integrate these scattered recommendations
-into a comprehensive and concise overarching guiding
-principle. Please try to categorize these suggestions by
-similarity or logical order to better organize the
-information. Remember, the goal is to create a general
-guidance recommendation that is easy to understand and
-apply, which will serve as the basis for decisions and
-actions.
+##### Next, some guiding suggestions will be given. Your task is to integrate these scattered recommendations into a comprehensive and concise overarching guiding principle. Please try to categorize these suggestions by similarity or logical order to better organize the information. Remember, the goal is to create a general guidance recommendation that is easy to understand and apply, which will serve as the basis for decisions and actions.
 ```
 
 ## 🚀General Guidance
@@ -159,37 +151,11 @@ This is the general guidance obtained by learning from mistakes.
 
 ```
 ### You must follow these rules:
-1. To ensure that the conditions in the WHERE clause
-match accurately, fuzzy matching should be used when
-generating the query. Use the correct operator for 
-exact matches (e.g., '=') and LIKE with wildcard 
-characters (\%) for partial matches especially 
-searching for patterns.
-2. When using GROUP BY and HAVING clauses, reference
-aggregate functions directly rather than using
-aliases defined in the SELECT statement. Be cautious
-when using aliases in the ORDER BY clause; some
-databases may not support referencing aliases
-directly.
-3. Verify that JOIN conditions are based on correct
-columns to establish accurate relationships. Avoid
-unnecessary keywords like DISTINCT in subqueries unless
-essential for the query's purpose.
-4. When using aggregate functions like AVG, ensure
-the conditions in the HAVING clause accurately
-reflect the intended logic. When using aggregate
-functions like COUNT, ensure they align with the
-grouping criteria to avoid incorrect results.
-5. Maintain consistency in representing boolean
-values in SQL queries to avoid confusion and
-errors. Use the appropriate boolean representation
-(e.g., "True", "False") . Use IS NULL or IS NOT
-NULL conditions to handle NULL values appropriately
-in queries. Be cautious with floating-point numbers
-, consider precision, and use appropriate
-comparison methods to avoid errors. Avoid
-unnecessary modifiers like DISTINCT when selecting
-unique values or columns that are already unique.
+1. To ensure that the conditions in the WHERE clause match accurately, fuzzy matching should be used when generating the query. Use the correct operator for exact matches (e.g., '=') and LIKE with wildcard characters (\%) for partial matches especially searching for patterns.
+2. When using GROUP BY and HAVING clauses, reference aggregate functions directly rather than using aliases defined in the SELECT statement. Be cautious when using aliases in the ORDER BY clause; some databases may not support referencing aliases directly.
+3. Verify that JOIN conditions are based on correct columns to establish accurate relationships. Avoid unnecessary keywords like DISTINCT in subqueries unless essential for the query's purpose.
+4. When using aggregate functions like AVG, ensure the conditions in the HAVING clause accurately reflect the intended logic. When using aggregate functions like COUNT, ensure they align with the grouping criteria to avoid incorrect results.
+5. Maintain consistency in representing boolean values in SQL queries to avoid confusion and errors. Use the appropriate boolean representation(e.g., "True", "False") . Use IS NULL or IS NOT NULL conditions to handle NULL values appropriately in queries. Be cautious with floating-point numbers, consider precision, and use appropriate comparison methods to avoid errors. Avoid unnecessary modifiers like DISTINCT when selecting unique values or columns that are already unique.
 ```
 
 The Performance of Each Item directly as prompt is as follows:
