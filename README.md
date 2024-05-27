@@ -6,7 +6,7 @@ This is the code for the manuscript "Learn From Mistakes: Guidance on Zero-shot 
 
 #### ✨Architecture
 Our method derives general guidance through the analysis of error cases in the training data. Subsequently, this general guidance is applied to the test data, leveraging CoT.
-![Architecture](.\\Text-to-SQL via LFM\pic\framework.png)
+![Architecture](.\\pic\framework.png)
 
 ## 📖Prompts
 Some example prompts are shown here.
