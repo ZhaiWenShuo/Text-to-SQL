@@ -12,6 +12,8 @@ Our method derives general guidance through the analysis of error cases in the t
 </div>
 <br>
 
+🤗Datasets Link: https://drive.google.com/uc?export=download&id=1Y3ydpFiQQ3FC0bzdfy3groV95O_f1nXF
+
 ## 📖Prompts
 Some example prompts are shown here.
 ### Database Schema Prompt
