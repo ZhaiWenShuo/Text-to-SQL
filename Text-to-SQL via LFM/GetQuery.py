@@ -4,7 +4,7 @@
 @ file        : GPTQuery_improved.py
 @ description : 
 @ time        : 2024/03/29 10:02:45
-@ author      : Wenshuo Zhai
+@ author      : 
 @ version     : 1.0
 '''
 
