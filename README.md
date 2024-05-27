@@ -6,7 +6,11 @@ This is the code for the manuscript "Learn From Mistakes: Guidance on Zero-shot 
 
 #### ✨Architecture
 Our method derives general guidance through the analysis of error cases in the training data. Subsequently, this general guidance is applied to the test data, leveraging CoT.
-![Architecture](pic\framework.png)
+<br>
+<div align="center">
+<img src="pic/framework.png" width="800px">
+</div>
+<br>
 
 ## 📖Prompts
 Some example prompts are shown here.
