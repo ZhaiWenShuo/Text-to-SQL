@@ -5,7 +5,7 @@
 @ file        : conclusion_sub_2.0.py
 @ description : 
 @ time        : 2024/03/12 17:23:01
-@ author      : Wenshuo Zhai
+@ author      : 
 @ version     : 1.0
 '''
 
