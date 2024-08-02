@@ -1,4 +1,4 @@
-# Learn From Mistakes: Guidance on Zero-shot Conversational Text-to-SQL
+# 🎉 Learn From Mistakes: Guidance on Zero-shot Conversational Text-to-SQL
 
 [![language-python3](https://img.shields.io/badge/Language-Python3-blue.svg?style=flat-square)](https://www.python.org/)
 
