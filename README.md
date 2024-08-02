@@ -3,6 +3,7 @@
 [![language-python3](https://img.shields.io/badge/Language-Python3-blue.svg?style=flat-square)](https://www.python.org/)
 
 This is the code for the manuscript "Learn From Mistakes: Guidance on Zero-shot Conversational Text-to-SQL". (Zhai et al., CIKM 2024)🏆. 
+
 Here we also show the key prompts and general guidance of our paper.
 
 #### ✨Architecture
